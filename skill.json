@@ -1,0 +1,17 @@
+{
+  "name": "genpark-cooley-tukey-fast-fourier-transform-fft-skill",
+  "version": "1.0.0",
+  "description": "Autonomous Agent Radix-2 Cooley-Tukey Fast Fourier Transform (FFT) & Inverse Spectral Synthesis Engine",
+  "entry_point": "client.py",
+  "example": "example_usage.py",
+  "mcp_server": "mcp_server.py",
+  "dependencies": [],
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "signal-processing",
+    "fft",
+    "fast-fourier-transform",
+    "spectral-analysis"
+  ]
+}
